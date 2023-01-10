@@ -1,3 +1,3 @@
 run:
-	g++ main.cpp -o main.exe
-	./main.exe
+	g++ game.cpp -o game.exe
+	./game.exe
